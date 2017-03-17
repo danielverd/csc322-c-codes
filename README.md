@@ -5,4 +5,4 @@ Taught by Dr. Wuchty
 
 Fall 2016
 
-//  projects 1 and 2 are omitted
+//  projects 1 and 2 are omitted since they are code-free
